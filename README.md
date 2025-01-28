@@ -17,4 +17,7 @@ Welcome to my GitHub! I'm **Catie**, a designer with a passion for art, problem-
 ## 📫 Work with me!
 Feel free to connect or collaborate with me: 
 - cprocyk@nd.edu
-- https://www.linkedin.com/in/catie-procyk-936123210/ 
+- https://www.linkedin.com/in/catie-procyk-936123210/
+
+## 💙 My portfolio 
+https://github.com/catiep14/python-portfolio/blob/main/README.md 
